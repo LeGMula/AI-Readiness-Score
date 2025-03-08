@@ -33,23 +33,23 @@ This repository introduces the **AI Readiness Score**, a quantitative model desi
 ![SG&A vs EBITDA](path_to_your_screenshot.png)  
 
 ### 2️⃣ **Turnaround Opportunities Have High Potential but Limited Progress**  
-📌 Some large companies **have high SG&A but haven't fully leveraged AI**.  
-📌 Examples: **McDonald's, Costco, Loblaw, Ahold Delhaize**.
+Some large companies **have high SG&A but haven't fully leveraged AI**.  
+Examples: **McDonald's, Costco, Loblaw, Ahold Delhaize**.
 
 **[Visualization: Initial SG&A Ratios by Classification]**  
 ![SG&A Ratios](path_to_your_screenshot.png)  
 
 ### 3️⃣ **AI Laggards Often Had Strong Past Performance But Declined**  
-📌 **Past high EBITDA margins do not guarantee AI readiness.**  
-📌 AI Laggards (e.g., Wendy's, Wingstop) **failed to improve operational efficiency** over time.  
+ **Past high EBITDA margins do not guarantee AI readiness.**  
+AI Laggards (e.g., Wendy's, Wingstop) **failed to improve operational efficiency** over time.  
 
 **[Visualization: AI Leaders vs. Industry Average]**  
 ![AI Leaders Performance](path_to_your_screenshot.png)  
 
 ---  
 
-## 🏦 Private Equity Implications  
-🔍 **How Can PE Investors Use This Model?**
+## Private Equity Implications  
+ **How Can PE Investors Use This Model?**
 - **Target Selection:** Identify **high SG&A firms with transformation potential** (best investment opportunities).  
 - **Due Diligence Focus:** Use financial & operational metrics to **predict AI adoption success**.  
 - **Value Creation Strategy:** Implement AI-driven cost reduction **early in the holding period** to maximize returns.  
@@ -67,11 +67,3 @@ This repository introduces the **AI Readiness Score**, a quantitative model desi
 4️⃣ Explore **AI Leader predictions & investment insights**.  
 
 ---  
-
-## 📩 Contact & Next Steps  
-📌 **Future Research:** Expanding model to other industries (e.g., manufacturing, finance).  
-📌 **Get in Touch:** For questions or collaborations, reach out via GitHub or email.  
-
-**If you found this research useful, give this repo a ⭐!** 🚀  
-
----
