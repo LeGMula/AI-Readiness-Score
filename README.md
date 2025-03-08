@@ -24,7 +24,7 @@ This repository introduces the **AI Readiness Score**, a quantitative model desi
 
 ---  
 
-## 🏆 Key Findings  
+## Key Findings  
 ### 1️⃣ **AI Leaders Start with High SG&A Ratios but Improve Over Time**  
 📌 Companies that **initially had high SG&A (overhead costs)** but successfully reduced them **became AI Leaders**.  
 📌 **SG&A reduction correlates strongly with EBITDA margin improvements**.  
@@ -41,8 +41,7 @@ https://github.com/LeGMula/AI-Readiness-Score/blob/main/Screenshot%202025-03-08%
  **Past high EBITDA margins do not guarantee AI readiness.**  
 AI Laggards (e.g., Wendy's, Wingstop) **failed to improve operational efficiency** over time.  
 
-**[Visualization: AI Leaders vs. Industry Average]**  
-![AI Leaders Performance](path_to_your_screenshot.png)  
+https://github.com/LeGMula/AI-Readiness-Score/blob/main/Screenshot%202025-03-08%20at%2015.42.14.png
 
 ---  
 
@@ -54,8 +53,8 @@ AI Laggards (e.g., Wendy's, Wingstop) **failed to improve operational efficiency
 
 ---  
 
-## 📥 How to Use This Repository  
-### 🔧 **Run the Model**  
+##  How to Use This Repository  
+###  **Run the Model**  
 1️⃣ Clone this repository:  
 ```bash
  git clone https://github.com/LeGMula/AI-Readiness-Score.git
