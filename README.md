@@ -35,8 +35,7 @@ https://github.com/LeGMula/AI-Readiness-Score/blob/main/Screenshot%202025-03-08%
 Some large companies **have high SG&A but haven't fully leveraged AI**.  
 Examples: **McDonald's, Costco, Loblaw, Ahold Delhaize**.
 
-**[Visualization: Initial SG&A Ratios by Classification]**  
-![SG&A Ratios](path_to_your_screenshot.png)  
+https://github.com/LeGMula/AI-Readiness-Score/blob/main/Screenshot%202025-03-08%20at%2015.40.25.png
 
 ### 3️⃣ **AI Laggards Often Had Strong Past Performance But Declined**  
  **Past high EBITDA margins do not guarantee AI readiness.**  
