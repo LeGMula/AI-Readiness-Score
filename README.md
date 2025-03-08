@@ -29,8 +29,7 @@ This repository introduces the **AI Readiness Score**, a quantitative model desi
 📌 Companies that **initially had high SG&A (overhead costs)** but successfully reduced them **became AI Leaders**.  
 📌 **SG&A reduction correlates strongly with EBITDA margin improvements**.  
 
-**[Visualization: SG&A Reduction vs. EBITDA Improvement]**  
-![SG&A vs EBITDA](path_to_your_screenshot.png)  
+https://github.com/LeGMula/AI-Readiness-Score/blob/main/Screenshot%202025-03-08%20at%2015.37.25.png
 
 ### 2️⃣ **Turnaround Opportunities Have High Potential but Limited Progress**  
 Some large companies **have high SG&A but haven't fully leveraged AI**.  
